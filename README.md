@@ -1,6 +1,6 @@
 # Ecolya
 
-Bug tracker pour Ecolya, un Site internet éducatif essayant de faire gagner du temps aux enseignants.
+Bug tracker pour Ecolya, un Site internet éducatif essayant de faire gagner du temps aux enseignants. https://www.facebook.com/pg/Ecolya.FR/
 
 ## Version de Décembre 2018
 Résumé des fonctionnalités de la version qui sort en décembre :
